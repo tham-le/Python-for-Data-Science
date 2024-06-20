@@ -1,0 +1,7 @@
+.DS_Store
+.env
+subject
+*__pycache__
+dist
+.venv
+test.py
