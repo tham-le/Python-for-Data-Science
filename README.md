@@ -1,4 +1,4 @@
-# tham-le-python-for-data-science
+# Piscine python for data science
 
 This repository contains a series of Python projects organized into modules, designed to progressively build data science skills.  It follows a "piscine" style of learning, where each module focuses on a particular aspect of Python and its application to data science.
 
